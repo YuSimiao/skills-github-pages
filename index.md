@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Welcome to my test blog
 ---
+
+want to setup static pages, and now following instructions of tutorial
+
 
